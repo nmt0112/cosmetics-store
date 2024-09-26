@@ -19,7 +19,7 @@ Before starting, make sure you have the following software installed:
 - Git
 - Visual Studio 2022
 - SQL Server 2019
-
+- Git
 ### 🛠️ Settings
 
 1. **Copy project:**
