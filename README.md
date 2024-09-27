@@ -19,6 +19,8 @@ Before starting, make sure you have the following software installed:
 - Git
 - Visual Studio 2022
 - SQL Server 2019
+- jira
+- 
 
 ### 🛠️ Settings
 
